@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Altman-conquer. This is my website: [zhandj.com](https://zhandj.com) and this is some tools i created [redirect.zhandj.com](https://redirect.zhandj.com)
+- 👋 Hi, I’m @Altman-conquer. This is my website: [zhandj.com](https://zhandj.com) 
+-    There are some tools I created [redirect.zhandj.com](https://redirect.zhandj.com)
 - 👀 I’m interested in making games using unreal engine and modeling through blender.I have already published a game on steam now.
 - 🌱 I’m currently learning C++,python,etc. :)
 - 💞️ I’m looking to collaborate on C++ project and game project.
